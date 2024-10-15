@@ -3,7 +3,7 @@
 Welcome to my GitHub! I’m a passionate **software engineering** student with a knack for solving problems using **full-stack development** and **AI technologies**.
 
 ### ✅ Check out my website:
-[![Check out my website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=google-chrome)](https://yourwebsite.com)
+[![Check out my website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=google-chrome)]([https://yourwebsite.com](https://shaan101patel.github.io/PersonalWebsite/#/))
 
 ### 📬 How to reach me:
 - **Email**: shaan101patel@gmail.com
