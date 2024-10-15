@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hey, I'm Shaan Patel
 
-<!--
-**shaan101patel/shaan101patel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I’m a passionate **software engineering** student with a knack for solving problems using **full-stack development** and **AI technologies**.
 
-Here are some ideas to get you started:
+[![Check out my website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=google-chrome)](https://yourwebsite.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 How to reach me:
+- **Email**: shaan.patel@gmail.com
+- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/your-linkedin)
+- **GitHub**: [View my repos](https://github.com/shaan101patel)
+
+### ⚡ Fun Fact:
+I’m the president of the **Indian Cultural Exchange** at UGA, where I lead a team of 30+ people and organize one of the largest cultural events on campus!
+
+### 📊 GitHub Stats:
+![Shaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaan101patel&show_icons=true&theme=radical)
+
