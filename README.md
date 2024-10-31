@@ -7,7 +7,7 @@ https://shaan101patel.github.io/PersonalWebsite/#/
 
 ### 📬 How to reach me:
 - **Email**: shaan101patel@gmail.com
-- **LinkedIn**: [Connect with me]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/shaanpatel25/))
+- **LinkedIn**: https://www.linkedin.com/in/shaanpatel25/
 - **GitHub**: [View my repos](https://github.com/shaan101patel)
 
 ### ⚡ Fun Fact:
