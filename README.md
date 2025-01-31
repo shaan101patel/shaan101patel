@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Shaan Patel
 
-Welcome to my GitHub! I’m a passionate **software engineering** student with a knack for solving problems using **full-stack development** and **AI technologies**.
+Welcome to my GitHub! I’m a passionate student with a knack for solving problems using **full-stack development** and **AI technologies**.
 
 ### ✅ Check out my website:
 https://shaan101patel.github.io/PersonalWebsite/#/
