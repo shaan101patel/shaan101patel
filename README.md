@@ -5,6 +5,9 @@ Welcome to my GitHub! I’m a passionate student with a knack for solving proble
 ### ✅ Check out my website:
 https://shaan101patel.github.io/PersonalWebsite/#/
 
+### 📄 Check out my Resume:
+https://maildoc.io/file/75a7ff5ca490866de74399e15fb3f122f3eddc7514bd7675caaffb3ccdf6b2b1?hash=becde99517d48ba99800bf2d156c34cdf67abe7a&u=12145834
+
 ### 📬 How to reach me:
 - **Email**: shaan101patel@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/shaanpatel25/
