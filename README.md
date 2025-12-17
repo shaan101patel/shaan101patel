@@ -7,8 +7,9 @@ Welcome to my GitHub! I’m a passionate student with a knack for solving proble
 - **Email**: shaan101patel@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/shaanpatel25/
 
-### ✅ Check out my OUTDATED website:
-https://shaan101patel.github.io/PersonalWebsite/#/
+### ✅ Check out my  websites:
+- Landing Page & MVP: https://navis.fyi/
+- Outdated Portfolio: https://shaan101patel.github.io/PersonalWebsite/#/
 
 
 
