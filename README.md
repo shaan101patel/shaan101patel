@@ -4,7 +4,7 @@ Welcome to my GitHub! I’m a passionate student with a knack for solving proble
 
 
 ### 📬 How to reach me:
-- **Email**: shaan101patel@gmail.com
+- **Email**: shaan.m.patel1@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/shaanpatel25/
 
 ### ✅ Check out my  websites:
