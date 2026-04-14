@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Shaan Patel
 
-Welcome to my GitHub! I’m want to always keep learning longer solving problems with data and a little grit!
+Welcome to my GitHub! I’m want to keep solving hard problems with data and a little grit!
 
 
 ### 📬 How to reach me:
