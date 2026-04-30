@@ -9,7 +9,7 @@ Welcome to my GitHub! I’m like to create fun tools for people and solve hard p
 
 ### ✅ Check out my  websites:
 - Navis startup Landing Page & MVP: https://navis.fyi/
-- Long distance connection app: https://love-distance.vercel.app/
+- Long distance connection app: https://love-long-distance.vercel.app/welcome
 - Outdated Portfolio: https://shaan101patel.github.io/PersonalWebsite/#/
 
 
