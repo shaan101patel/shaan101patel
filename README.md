@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Shaan Patel
 
-Welcome to my GitHub! I’m want to keep solving hard problems with data and a little grit!
+Welcome to my GitHub! I’m like to create fun tools for people and solve hard problems with data!
 
 
 ### 📬 How to reach me:
@@ -8,7 +8,8 @@ Welcome to my GitHub! I’m want to keep solving hard problems with data and a l
 - **LinkedIn**: https://www.linkedin.com/in/shaanpatel25/
 
 ### ✅ Check out my  websites:
-- Landing Page & MVP: https://navis.fyi/
+- Navis startup Landing Page & MVP: https://navis.fyi/
+- Long distance connection app: https://love-distance.vercel.app/
 - Outdated Portfolio: https://shaan101patel.github.io/PersonalWebsite/#/
 
 
