@@ -1,9 +1,9 @@
-# 👋 Hey, I'm Shaan Patel
+# 😺 Hey, I'm Shaan Patel
 
 Welcome to my GitHub! I’m like to create fun tools for people and solve hard problems with data!
 
 
-### 📬 How to reach me:
+### 🫳 How to reach me:
 - **Email**: shaan.m.patel1@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/shaanpatel25/
 
