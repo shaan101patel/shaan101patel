@@ -5,7 +5,7 @@ Welcome to my GitHub! I’m like to create fun tools for people and solve hard p
 
 ### 🫳 How to reach me:
 - **Email**: shaan.m.patel1@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/shaanpatel25/
+- **LinkedIn**: https://www.linkedin.com/in/shaan-m-patel/
 
 ### ✅ Check out my  websites:
 - Navis startup Landing Page & MVP: https://navis.fyi/
