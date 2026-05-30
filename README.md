@@ -1,4 +1,4 @@
-# 😺 Hey, I'm Shaan Patel
+# 😺 Hey, I'm Shaan M Patel
 
 Welcome to my GitHub! I’m like to create fun tools for people and solve hard problems with data!
 
